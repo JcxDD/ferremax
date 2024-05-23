@@ -1,0 +1,9 @@
+
+(DJANGO VERSION 4.1.1)
+En el CMD entran al proyecto y antes del "python manage.py runserver" colocan esto para instalar los requerimientos :
+
+pip install -r requirements.txt
+
+
+
+
